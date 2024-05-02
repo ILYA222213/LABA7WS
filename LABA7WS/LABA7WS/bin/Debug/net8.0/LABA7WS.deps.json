@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LABA7WS/1.0.0": {
+        "runtime": {
+          "LABA7WS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LABA7WS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
